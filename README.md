@@ -1,6 +1,5 @@
-# SEEWE
-Examples that illustrate the different code vulnerabilities according to CWE.
-
+https://chat.deepseek.com/a/chat/s/2f0fc091-5fd0-4e15-a7be-e0d1116ab71f  
+https://cwe.mitre.org/data/definitions/665.html  
 - [CWE-20](CWE-20) (Improper Input Validation)
 - [CWE-119](CWE-119) (Improper restriction of operations within the bounds of a memory buffer)
 - [CWE-120](CWE-120) (Buffer copy without checking size of input)
